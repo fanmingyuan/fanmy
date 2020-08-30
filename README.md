@@ -1,0 +1,2 @@
+# fanmy
+a blog
